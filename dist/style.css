@@ -203,7 +203,7 @@ html, body {
 #left {
   float: left;
   text-align: right;
-  background-color: #0a5d61;
+  background-color: #ff5722;
   color: #efedce;
   padding-left: 20%;
   margin-left: -20%;
@@ -258,7 +258,7 @@ html, body {
 #right {
   float: right;
   text-align: left;
-  background-color: #efedce;
+  background-color: #FBEC4B;
   color: #0a5d61;
   padding-right: 20%;
   margin-right: -20%;
